@@ -20,15 +20,15 @@
 </div>
 
 > Fill out project information in English ⬇️
-### Student Name
+### Student Name saud abdulrahman alhamlan
 
 
-### Project Name
+### Project Name blood bank
 
 # Idea
 Problem and solutions if found 
 
 
-# Future Work 
+# Future Work i hope to make profistional app on the same project
 
 
